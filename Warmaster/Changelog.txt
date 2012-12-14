@@ -1,5 +1,14 @@
 *** This file contains (almost) all changes done at this campaign. ***
 
+ ** trewe 9-12-2012
+	+ added german translation
+
+ ** trewe 01-12-2012
+	i run wmltools over the campaign
+	i converted to BfW 1.11
+	+ added portuguese (european) translation
+	* Balancing & Testing
+
  ** trewe 28-10-2012
 	+ added traps in the 15 scenario
 	* raised the turn limit in 15 scenario
