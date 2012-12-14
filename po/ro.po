@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Warmaster-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-11-22 19:54-0500\n"
+"POT-Creation-Date: 2012-12-14 07:08-0500\n"
 "PO-Revision-Date: 2012-11-22 19:54-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -19,45 +19,66 @@ msgid "Warmaster"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:12
+#: Warmaster/_main.cfg:13
 msgid "WM"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:16
+#: Warmaster/_main.cfg:17
 msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:16
+#: Warmaster/_main.cfg:17
 msgid "Novice"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:17
+#: Warmaster/_main.cfg:18
 msgid "Expert"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:17
+#: Warmaster/_main.cfg:18
 msgid "(Hard)"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:18
+#: Warmaster/_main.cfg:19
 msgid "Master"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:18
+#: Warmaster/_main.cfg:19
 msgid "(Very Hard)"
 msgstr ""
 
 #. [campaign]: id=Warmaster
-#: Warmaster/_main.cfg:19
+#: Warmaster/_main.cfg:20
 msgid ""
 "One day the scout of your king brings a mysterious little stone, called Zrai-"
-"Stone, back from one of his trips. Soon that stone causes a lot of trouble..."
+"Stone, back from one of his trips. Soon that stone causes a lot of "
+"trouble...\n"
+msgstr ""
+
+#. [campaign]: id=Warmaster
+#: Warmaster/_main.cfg:23
+msgid "(Expert level, 16 scenarios)"
+msgstr ""
+
+#. [about]
+#: Warmaster/credits.cfg:6
+msgid "Campaign Design"
+msgstr ""
+
+#. [about]
+#: Warmaster/credits.cfg:12
+msgid "Translations"
+msgstr ""
+
+#. [about]
+#: Warmaster/credits.cfg:18
+msgid "Campaign Maintenance"
 msgstr ""
 
 #. [scenario]: id=01_Warmaster
@@ -99,11 +120,11 @@ msgstr ""
 #: Warmaster/scenarios/02_Warmaster.cfg:85
 #: Warmaster/scenarios/03_Warmaster.cfg:195
 #: Warmaster/scenarios/04_Warmaster.cfg:91
-#: Warmaster/scenarios/04_Warmaster.cfg:499
+#: Warmaster/scenarios/04_Warmaster.cfg:500
 #: Warmaster/scenarios/04x_Warmaster.cfg:78
 #: Warmaster/scenarios/05_Warmaster.cfg:86
 #: Warmaster/scenarios/06_Warmaster.cfg:93
-#: Warmaster/scenarios/06_Warmaster.cfg:286
+#: Warmaster/scenarios/06_Warmaster.cfg:290
 #: Warmaster/scenarios/07_Warmaster.cfg:71
 #: Warmaster/scenarios/08_Warmaster.cfg:79
 #: Warmaster/scenarios/09_Warmaster.cfg:120
@@ -119,7 +140,7 @@ msgid "Death of Troy"
 msgstr ""
 
 #. [side]: type=Royal Guard, id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:215
+#: Warmaster/scenarios/01_Warmaster.cfg:216
 msgid "Igor"
 msgstr ""
 
@@ -127,74 +148,74 @@ msgstr ""
 #. [side]: type=Grand Marshal, id=Zaphron
 #. [side]: type=Master at Arms, id=Gwoddroy
 #. [side]: type=Royal Guard, id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:219
-#: Warmaster/scenarios/01_Warmaster.cfg:369
+#: Warmaster/scenarios/01_Warmaster.cfg:220
+#: Warmaster/scenarios/01_Warmaster.cfg:371
 #: Warmaster/scenarios/04_Warmaster.cfg:127
 #: Warmaster/scenarios/05_Warmaster.cfg:119 Warmaster/utils/macros.cfg:45
 msgid "Loyalists"
 msgstr ""
 
 #. [effect]: type=blade
-#: Warmaster/scenarios/01_Warmaster.cfg:293
+#: Warmaster/scenarios/01_Warmaster.cfg:295
 msgid "throwing knives"
 msgstr ""
 
 #. [side]: type=Grand Marshal, id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:365
+#: Warmaster/scenarios/01_Warmaster.cfg:367
 msgid "Groud"
 msgstr ""
 
 #. [side]: type=Orcish Sovereign, id=Mergal-Jam
-#: Warmaster/scenarios/01_Warmaster.cfg:463
+#: Warmaster/scenarios/01_Warmaster.cfg:466
 msgid "Mergal-Jam"
 msgstr ""
 
 #. [side]: type=Orcish Sovereign, id=Mergal-Jam
 #. [side]: type=Orcish Sovereign, id=Mergal-Jog
-#: Warmaster/scenarios/01_Warmaster.cfg:467
-#: Warmaster/scenarios/01_Warmaster.cfg:528
+#: Warmaster/scenarios/01_Warmaster.cfg:470
+#: Warmaster/scenarios/01_Warmaster.cfg:533
 msgid "Invaders"
 msgstr ""
 
 #. [side]: type=Orcish Sovereign, id=Mergal-Jog
-#: Warmaster/scenarios/01_Warmaster.cfg:524
+#: Warmaster/scenarios/01_Warmaster.cfg:529
 msgid "Mergal-Jog"
 msgstr ""
 
 #. [side]: type=Ogre, id=Hugle
-#: Warmaster/scenarios/01_Warmaster.cfg:585
+#: Warmaster/scenarios/01_Warmaster.cfg:592
 msgid "Hugle"
 msgstr ""
 
 #. [side]: type=Necrophage, id=Zreg
 #. [side]: type=Ogre, id=Hugle
-#: Warmaster/scenarios/01_Warmaster.cfg:599
-#: Warmaster/scenarios/06_Warmaster.cfg:152
+#: Warmaster/scenarios/01_Warmaster.cfg:606
+#: Warmaster/scenarios/06_Warmaster.cfg:154
 msgid "Monsters"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/01_Warmaster.cfg:627
+#: Warmaster/scenarios/01_Warmaster.cfg:634
 msgid "Some dark shapes can be seen a few miles away."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:632
+#: Warmaster/scenarios/01_Warmaster.cfg:639
 msgid "Huh? What might this be? ...Can this be? Orcs?"
 msgstr ""
 
 #. [message]: id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:636
+#: Warmaster/scenarios/01_Warmaster.cfg:643
 msgid "Orcs! Douzens of them! Where are they all coming from?"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:640
+#: Warmaster/scenarios/01_Warmaster.cfg:647
 msgid "Uh. They seem to be a bit too many for me."
 msgstr ""
 
 #. [message]: id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:644
+#: Warmaster/scenarios/01_Warmaster.cfg:651
 msgid ""
 "Did I say douzens? Forget what I said. This must be hundreds of orcs! If we "
 "only knew about it... But like this, we cannot protect the castle and the "
@@ -202,7 +223,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:648
+#: Warmaster/scenarios/01_Warmaster.cfg:655
 msgid ""
 "I haven't seen that many orcs since I am king. There's no way we can make it "
 "against such numbers. But why are they attacking us either? We didn't fight "
@@ -210,54 +231,54 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Mergal-Jam
-#: Warmaster/scenarios/01_Warmaster.cfg:653
+#: Warmaster/scenarios/01_Warmaster.cfg:660
 msgid ""
 "You're asking why we're attacking you? Stupid man. Don't you already know it?"
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:657
+#: Warmaster/scenarios/01_Warmaster.cfg:664
 msgid "...the Zrai-Stone...? Oh no..."
 msgstr ""
 
 #. [message]: id=Mergal-Jam
-#: Warmaster/scenarios/01_Warmaster.cfg:662
+#: Warmaster/scenarios/01_Warmaster.cfg:669
 msgid ""
 "Exactly. Now common, give it to us immediately and we might let you die a "
 "quick death!"
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:666
+#: Warmaster/scenarios/01_Warmaster.cfg:673
 msgid "No way! Troy, take the stone and escape! Immediately!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:670
+#: Warmaster/scenarios/01_Warmaster.cfg:677
 msgid "But..."
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:674
+#: Warmaster/scenarios/01_Warmaster.cfg:681
 msgid "Do it! Take the stone and escape!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:678
+#: Warmaster/scenarios/01_Warmaster.cfg:685
 msgid ""
 "But to where! If I would try to escape I would just bring the stone towards "
 "the orcs!"
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:682
+#: Warmaster/scenarios/01_Warmaster.cfg:689
 msgid ""
 "Not if you go through the castle. There is a secret passage somewhere in it. "
 "To open it you must press some kind of switch."
 msgstr ""
 
 #. [message]: id=Mergal-Jog
-#: Warmaster/scenarios/01_Warmaster.cfg:687
+#: Warmaster/scenarios/01_Warmaster.cfg:694
 msgid ""
 "So you're trying to escape? How silly. We will get you nevertheless! Now go "
 "on, my little grunts! Enter that ugly castle and smash everyone to pieces, "
@@ -265,7 +286,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:691
+#: Warmaster/scenarios/01_Warmaster.cfg:698
 msgid ""
 "Here is the stone. Now recruit some soldiers to help you and go! But be "
 "careful, I have never been inside the secret passage. I don't know what "
@@ -273,17 +294,17 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:695
+#: Warmaster/scenarios/01_Warmaster.cfg:702
 msgid "Alright... Igor, fight as best as you can. I'm going."
 msgstr ""
 
 #. [message]: id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:699
+#: Warmaster/scenarios/01_Warmaster.cfg:706
 msgid "Promised. I won't go down without a fight!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:713
+#: Warmaster/scenarios/01_Warmaster.cfg:720
 msgid ""
 "Phew... I really made it this far. But where to go now? I don't know what "
 "this little stone exactly is. I only know that the orcs may not get it. I "
@@ -293,92 +314,92 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:717
+#: Warmaster/scenarios/01_Warmaster.cfg:724
 msgid "Why did this only have to happen..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:731
+#: Warmaster/scenarios/01_Warmaster.cfg:738
 msgid "Argh... I must... escape..."
 msgstr ""
 
 #. [message]: id=Mergal-Jog
-#: Warmaster/scenarios/01_Warmaster.cfg:736
+#: Warmaster/scenarios/01_Warmaster.cfg:743
 msgid ""
 "Ah, there we have the Zrai-Stone. Very well. But this starts to get fun. "
 "Kill them all!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:740
+#: Warmaster/scenarios/01_Warmaster.cfg:747
 msgid "No..."
 msgstr ""
 
 #. [message]: id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:756
+#: Warmaster/scenarios/01_Warmaster.cfg:763
 msgid "I may have been defeated, but you'll never get the stone!"
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:769
+#: Warmaster/scenarios/01_Warmaster.cfg:776
 msgid "How is this possible... I have been... defeated..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:784
+#: Warmaster/scenarios/01_Warmaster.cfg:791
 msgid "This one is defeated..."
 msgstr ""
 
 #. [message]: id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:797
+#: Warmaster/scenarios/01_Warmaster.cfg:804
 msgid "We will meet in hell!"
 msgstr ""
 
 #. [message]: id=Groud
-#: Warmaster/scenarios/01_Warmaster.cfg:810
+#: Warmaster/scenarios/01_Warmaster.cfg:817
 msgid ""
 "I won't let you pass, fool! You'll first have to defeat me to get through "
 "here!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:823
+#: Warmaster/scenarios/01_Warmaster.cfg:830
 msgid "What? You're attacking me? C'mon, you can't be serious..."
 msgstr ""
 
 #. [message]: id=Hugle
-#: Warmaster/scenarios/01_Warmaster.cfg:836
+#: Warmaster/scenarios/01_Warmaster.cfg:843
 msgid ""
 "Food! Hugle is hungry! Hugle will kill tasty little thing and then eat it."
 msgstr ""
 
 #. [message]: id=Hugle
-#: Warmaster/scenarios/01_Warmaster.cfg:849
+#: Warmaster/scenarios/01_Warmaster.cfg:856
 msgid "Food attacks Hugle? Hugle kills food and then eats it."
 msgstr ""
 
 #. [message]: id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:862
+#: Warmaster/scenarios/01_Warmaster.cfg:869
 msgid "Die!"
 msgstr ""
 
 #. [message]: id=Igor
-#: Warmaster/scenarios/01_Warmaster.cfg:875
+#: Warmaster/scenarios/01_Warmaster.cfg:882
 msgid "My name is Igor. You will regret having attacked me!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/01_Warmaster.cfg:888
+#: Warmaster/scenarios/01_Warmaster.cfg:895
 msgid "Get out of my way, you monster!"
 msgstr ""
 
 #. [message]: id=Hugle
-#: Warmaster/scenarios/01_Warmaster.cfg:918
+#: Warmaster/scenarios/01_Warmaster.cfg:925
 msgid "Agh! Hugle hungry... but Hugle... dead..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/01_Warmaster.cfg:922
+#: Warmaster/scenarios/01_Warmaster.cfg:929
 msgid ""
 "The northern wall begins to shake and break. Now the cave can be left "
 "through the northern wall."
@@ -483,11 +504,11 @@ msgstr ""
 #. [objective]: condition=lose
 #: Warmaster/scenarios/03_Warmaster.cfg:199
 #: Warmaster/scenarios/04_Warmaster.cfg:95
-#: Warmaster/scenarios/04_Warmaster.cfg:503
+#: Warmaster/scenarios/04_Warmaster.cfg:504
 #: Warmaster/scenarios/04x_Warmaster.cfg:82
 #: Warmaster/scenarios/05_Warmaster.cfg:90
 #: Warmaster/scenarios/06_Warmaster.cfg:97
-#: Warmaster/scenarios/06_Warmaster.cfg:290
+#: Warmaster/scenarios/06_Warmaster.cfg:294
 #: Warmaster/scenarios/07_Warmaster.cfg:75
 #: Warmaster/scenarios/08_Warmaster.cfg:83
 #: Warmaster/scenarios/09_Warmaster.cfg:124
@@ -523,7 +544,7 @@ msgid "Wood Elves"
 msgstr ""
 
 #. [side]: type=Orcish Warrior, id=Urgor-Graff
-#: Warmaster/scenarios/03_Warmaster.cfg:285
+#: Warmaster/scenarios/03_Warmaster.cfg:286
 msgid "Urgor-Graff"
 msgstr ""
 
@@ -535,19 +556,19 @@ msgstr ""
 #. [side]: type=Orcish Warlord, id=Nirgil-Nirril
 #. [side]: type=Orcish Warlord, id=Werrand-Log
 #. [side]: type=Orcish Warrior, id=Urgor-Graff
-#: Warmaster/scenarios/03_Warmaster.cfg:288
-#: Warmaster/scenarios/04_Warmaster.cfg:177
+#: Warmaster/scenarios/03_Warmaster.cfg:289
+#: Warmaster/scenarios/04_Warmaster.cfg:178
 #: Warmaster/scenarios/07_Warmaster.cfg:97
-#: Warmaster/scenarios/08_Warmaster.cfg:136
+#: Warmaster/scenarios/08_Warmaster.cfg:137
 #: Warmaster/scenarios/09_Warmaster.cfg:204
-#: Warmaster/scenarios/10_Warmaster.cfg:173
-#: Warmaster/scenarios/11_Warmaster.cfg:155
+#: Warmaster/scenarios/10_Warmaster.cfg:174
+#: Warmaster/scenarios/11_Warmaster.cfg:156
 #: Warmaster/scenarios/14_Warmaster.cfg:125
 msgid "Orcs"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Zeff-Jerlil
-#: Warmaster/scenarios/03_Warmaster.cfg:324
+#: Warmaster/scenarios/03_Warmaster.cfg:325
 msgid "Zeff-Jerlil"
 msgstr ""
 
@@ -556,21 +577,21 @@ msgstr ""
 #. [side]: type=Dark Sorcerer, id=Urgol
 #. [side]: type=Dark Sorcerer, id=Zeff-Jerlil
 #. [side]: type=Necromancer, id=Farghul
-#: Warmaster/scenarios/03_Warmaster.cfg:327
-#: Warmaster/scenarios/04_Warmaster.cfg:214
-#: Warmaster/scenarios/08_Warmaster.cfg:165
-#: Warmaster/scenarios/09_Warmaster.cfg:285
-#: Warmaster/scenarios/13_Warmaster.cfg:213
+#: Warmaster/scenarios/03_Warmaster.cfg:328
+#: Warmaster/scenarios/04_Warmaster.cfg:215
+#: Warmaster/scenarios/08_Warmaster.cfg:167
+#: Warmaster/scenarios/09_Warmaster.cfg:286
+#: Warmaster/scenarios/13_Warmaster.cfg:216
 msgid "Undead"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/03_Warmaster.cfg:365
+#: Warmaster/scenarios/03_Warmaster.cfg:366
 msgid "Stop! Who are you and what is your business here!"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/03_Warmaster.cfg:369
+#: Warmaster/scenarios/03_Warmaster.cfg:370
 msgid ""
 "Please sir, you must help us. Orcs and some kind of undead monsters are "
 "attacking us, and we have no chance against such a great army. We aren't "
@@ -578,7 +599,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/03_Warmaster.cfg:373
+#: Warmaster/scenarios/03_Warmaster.cfg:374
 msgid ""
 "Okay, this time the orcs really went to far. Attacking us humans, okay, "
 "humans and orcs are in war always. But elves! Elves have nothing to do with "
@@ -586,7 +607,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/03_Warmaster.cfg:377
+#: Warmaster/scenarios/03_Warmaster.cfg:378
 msgid ""
 "My name is Ervin. Please, you must save Grendil, our leader. He is in the "
 "middle of the forest and begins to recruit fighters in this very moment. "
@@ -595,46 +616,46 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/03_Warmaster.cfg:381
+#: Warmaster/scenarios/03_Warmaster.cfg:382
 msgid "Alright... Then let's join the fun!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/03_Warmaster.cfg:385
+#: Warmaster/scenarios/03_Warmaster.cfg:386
 msgid ""
 "To talk to Grendil just move onto one of the castle-hexes next to his keep "
 "(Grendil's keep is the upper one)."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/03_Warmaster.cfg:401
+#: Warmaster/scenarios/03_Warmaster.cfg:402
 msgid "Hello, Grendil. Ervin told me to help you, and well, here I am."
 msgstr ""
 
 #. [message]: id=Grendil
-#: Warmaster/scenarios/03_Warmaster.cfg:405
+#: Warmaster/scenarios/03_Warmaster.cfg:406
 msgid ""
 "Very well. Let's fight together to defeat those monsters! Well, it's up to "
 "you, but you're allowed to recruit some elves now if you want to."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/03_Warmaster.cfg:410
+#: Warmaster/scenarios/03_Warmaster.cfg:411
 msgid "You may now recruit elves!"
 msgstr ""
 
 #. [message]: id=Grendil
-#: Warmaster/scenarios/03_Warmaster.cfg:436
+#: Warmaster/scenarios/03_Warmaster.cfg:437
 msgid "No... The elves of this forest have been defeated..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/03_Warmaster.cfg:440
+#: Warmaster/scenarios/03_Warmaster.cfg:441
 msgid "Darn, I have failed!"
 msgstr ""
 
 #. [message]: id=Urgor-Graff
-#: Warmaster/scenarios/03_Warmaster.cfg:456
+#: Warmaster/scenarios/03_Warmaster.cfg:457
 msgid ""
 "Grrr... These filthy elves are harder to defeat than they look like. We "
 "cannot defeat them right now. Run, my little grunts, run! We need to get "
@@ -642,14 +663,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Zeff-Jerlil
-#: Warmaster/scenarios/03_Warmaster.cfg:460
+#: Warmaster/scenarios/03_Warmaster.cfg:461
 msgid ""
 "Hm... This time you've won, but we'll meet again. Let's get out of here, my "
 "undead fighters."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/03_Warmaster.cfg:470
+#: Warmaster/scenarios/03_Warmaster.cfg:471
 msgid ""
 "Oh no! Enemy reinforcements! Douzens of them! They're too many. We're "
 "doomed..."
@@ -676,18 +697,18 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Warmaster/scenarios/04_Warmaster.cfg:83
-#: Warmaster/scenarios/04_Warmaster.cfg:483
+#: Warmaster/scenarios/04_Warmaster.cfg:484
 msgid "Troy reaches the end of the path leading to the northeast"
 msgstr ""
 
-#. [objective]: description=<i>, condition=win
+#. [objective]: condition=win
 #: Warmaster/scenarios/04_Warmaster.cfg:87
 msgid "You need the allowance first"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Warmaster/scenarios/04_Warmaster.cfg:99
-#: Warmaster/scenarios/04_Warmaster.cfg:507
+#: Warmaster/scenarios/04_Warmaster.cfg:508
 msgid "Death of Gwoddroy"
 msgstr ""
 
@@ -697,17 +718,17 @@ msgid "Gwoddroy"
 msgstr ""
 
 #. [side]: type=Orcish Crossbowman, id=Gergal-Ginnal
-#: Warmaster/scenarios/04_Warmaster.cfg:174
+#: Warmaster/scenarios/04_Warmaster.cfg:175
 msgid "Gergal-Ginnal"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Urgol
-#: Warmaster/scenarios/04_Warmaster.cfg:211
+#: Warmaster/scenarios/04_Warmaster.cfg:212
 msgid "Urgol"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:265
+#: Warmaster/scenarios/04_Warmaster.cfg:266
 msgid ""
 "Huh. Pretty big mountain. I can't see the top of it... Perhaps this is "
 "because of the fog around there. However, we will have to either cross or "
@@ -715,21 +736,21 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/04_Warmaster.cfg:269
+#: Warmaster/scenarios/04_Warmaster.cfg:270
 msgid ""
 "Yeah, let's go on. If those things you told me before are true then we "
 "should really hurry."
 msgstr ""
 
 #. [message]: id=Gergal-Ginnal
-#: Warmaster/scenarios/04_Warmaster.cfg:273
+#: Warmaster/scenarios/04_Warmaster.cfg:274
 msgid ""
 "Har! They always just walk straight into our arms! I knew they would be "
 "heading to Grix!"
 msgstr ""
 
 #. [message]: id=Urgol
-#: Warmaster/scenarios/04_Warmaster.cfg:277
+#: Warmaster/scenarios/04_Warmaster.cfg:278
 msgid ""
 "Shut up, filthy orc. It was ME who told you they would be heading to Grix. "
 "We may have an alliance for now, but that alliance won't last forever you "
@@ -737,53 +758,53 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Gergal-Ginnal
-#: Warmaster/scenarios/04_Warmaster.cfg:281
+#: Warmaster/scenarios/04_Warmaster.cfg:282
 msgid "Yeah, ok. Let's talk about that later - we should defeat them first!"
 msgstr ""
 
 #. [message]: id=Urgol
-#: Warmaster/scenarios/04_Warmaster.cfg:285
+#: Warmaster/scenarios/04_Warmaster.cfg:286
 msgid "Agreed..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/04_Warmaster.cfg:289
+#: Warmaster/scenarios/04_Warmaster.cfg:290
 msgid "It seems like there are even more of these bastards here."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:293
+#: Warmaster/scenarios/04_Warmaster.cfg:294
 msgid ""
 "Sigh... We really don't have time to fight against them now. But if they "
 "want it the hard way they shall get it the hard way..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:297
+#: Warmaster/scenarios/04_Warmaster.cfg:298
 msgid "But wait... Who's that guy behind there?"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/04_Warmaster.cfg:301
+#: Warmaster/scenarios/04_Warmaster.cfg:302
 msgid "Looks like one of the leaders of Grix' army..."
 msgstr ""
 
 #. [message]: id=Gwoddroy
-#: Warmaster/scenarios/04_Warmaster.cfg:305
+#: Warmaster/scenarios/04_Warmaster.cfg:306
 msgid ""
 "Huh? Humans and elves? Where are they coming from? I thought nobody was "
 "allowed to leave Grix in the moment..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:309
+#: Warmaster/scenarios/04_Warmaster.cfg:310
 msgid ""
 "We aren't coming from Grix, but we are on the way to it. Reiglon has fallen, "
 "and we need the help of the Empire of Grix..."
 msgstr ""
 
 #. [message]: id=Gwoddroy
-#: Warmaster/scenarios/04_Warmaster.cfg:313
+#: Warmaster/scenarios/04_Warmaster.cfg:314
 msgid ""
 "Huh. Sounds bad. But I was told to let nobody pass I'm afraid. You will have "
 "to get the allowance from the guardpost of my master first... It is the "
@@ -791,24 +812,24 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:317
+#: Warmaster/scenarios/04_Warmaster.cfg:318
 msgid "Very well. Let's make it quick..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:335
+#: Warmaster/scenarios/04_Warmaster.cfg:336
 msgid ""
 "Hm... I don't know what might be in there, but it could be a way to get to "
 "the empire, too... Well, we'll see."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:364
+#: Warmaster/scenarios/04_Warmaster.cfg:365
 msgid "Very well. Here's the allowance. And now let us pass!"
 msgstr ""
 
 #. [message]: id=Gwoddroy
-#: Warmaster/scenarios/04_Warmaster.cfg:368
+#: Warmaster/scenarios/04_Warmaster.cfg:369
 msgid ""
 "Alright. I'll send someone to tell the important men in Grix that you're "
 "coming. Now go on, leave these follish orcs and undead to me. They may be "
@@ -816,47 +837,47 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Gwoddroy
-#: Warmaster/scenarios/04_Warmaster.cfg:378
+#: Warmaster/scenarios/04_Warmaster.cfg:379
 msgid "You need the allowance first..."
 msgstr ""
 
 #. [message]: id=Gergal-Ginnal
-#: Warmaster/scenarios/04_Warmaster.cfg:412
+#: Warmaster/scenarios/04_Warmaster.cfg:413
 msgid ""
 "Grrr... This takes too long. Where are those stinkin' trolls? I told them to "
 "come from the northwest..."
 msgstr ""
 
 #. [message]: id=Urgol
-#: Warmaster/scenarios/04_Warmaster.cfg:416
+#: Warmaster/scenarios/04_Warmaster.cfg:417
 msgid "Shut up, idiot!"
 msgstr ""
 
 #. [message]: id=Urgh-Gargh-Grog
-#: Warmaster/scenarios/04_Warmaster.cfg:473
-#: Warmaster/scenarios/12_Warmaster.cfg:282
+#: Warmaster/scenarios/04_Warmaster.cfg:474
+#: Warmaster/scenarios/12_Warmaster.cfg:284
 msgid "Grumph! Need to smash things! Grumph!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04_Warmaster.cfg:477
+#: Warmaster/scenarios/04_Warmaster.cfg:478
 msgid ""
 "Huh, trolls... But what's that? It seems like they came out of an cave... I "
 "could enter it, but..."
 msgstr ""
 
-#. [objective]: description=<i>, condition=win
-#: Warmaster/scenarios/04_Warmaster.cfg:487
+#. [objective]: condition=win
+#: Warmaster/scenarios/04_Warmaster.cfg:488
 msgid "Don't forget, you need the allowance first"
 msgstr ""
 
 #. [objective]: condition=win
-#: Warmaster/scenarios/04_Warmaster.cfg:495
+#: Warmaster/scenarios/04_Warmaster.cfg:496
 msgid "Troy enters the hole the trolls came out"
 msgstr ""
 
 #. [message]: id=Gwoddroy
-#: Warmaster/scenarios/04_Warmaster.cfg:532
+#: Warmaster/scenarios/04_Warmaster.cfg:533
 msgid "Ouch. This was too much. I'm defeated..."
 msgstr ""
 
@@ -884,36 +905,36 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Troll Warrior, id=Grarghar
-#: Warmaster/scenarios/04x_Warmaster.cfg:107
+#: Warmaster/scenarios/04x_Warmaster.cfg:109
 msgid "Grarghar"
 msgstr ""
 
 #. [side]: type=Troll Warrior, id=Grarghar
-#: Warmaster/scenarios/04x_Warmaster.cfg:110
+#: Warmaster/scenarios/04x_Warmaster.cfg:112
 msgid "Unknown"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:152
+#: Warmaster/scenarios/04x_Warmaster.cfg:155
 msgid "Well... Pretty dark in here... I hate darkness..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/04x_Warmaster.cfg:156
+#: Warmaster/scenarios/04x_Warmaster.cfg:159
 msgid ""
 "We should get out of here quickly. Elves don't mind darkness, but they fight "
 "just badly in caves."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:160
+#: Warmaster/scenarios/04x_Warmaster.cfg:163
 msgid ""
 "However, humans don't mind caves at all - except if riding on horses - but "
 "they hate darkness. Well, which of them should I use here then..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/04x_Warmaster.cfg:164
+#: Warmaster/scenarios/04x_Warmaster.cfg:167
 msgid ""
 "I'd suggest to use a mix out of both of them. You shouldn't use horses. And "
 "you should try to get units that use all their movement here instead of "
@@ -922,53 +943,53 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:168
+#: Warmaster/scenarios/04x_Warmaster.cfg:171
 msgid "Perhaps we're lucky and this cave is empty?"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/04x_Warmaster.cfg:172
+#: Warmaster/scenarios/04x_Warmaster.cfg:175
 msgid "I doubt that... Where should those trolls have been coming from then?"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:176
+#: Warmaster/scenarios/04x_Warmaster.cfg:179
 msgid ""
 "Okay, point for you. Well. I guess we will be facing trolls then... But I'm "
 "still not sure. However. Let's go..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:187
+#: Warmaster/scenarios/04x_Warmaster.cfg:190
 msgid ""
 "Darn, we should never have entered this damned cave! These trolls are a lot "
 "stronger than we are. We will never see the daylight again..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:200
+#: Warmaster/scenarios/04x_Warmaster.cfg:203
 msgid "Trolls! So I was right. However. Let's rid this cave of them!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:217
+#: Warmaster/scenarios/04x_Warmaster.cfg:220
 msgid ""
 "Phew... This one must have been their leader. However, the other trolls and "
 "monsters escaped."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/04x_Warmaster.cfg:221
+#: Warmaster/scenarios/04x_Warmaster.cfg:224
 msgid "This was a lot harder than every battle I had to fight yet. But we won."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:225
+#: Warmaster/scenarios/04x_Warmaster.cfg:228
 msgid "Wait a moment... I thought I heard something inside that castle..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:277
+#: Warmaster/scenarios/04x_Warmaster.cfg:280
 msgid ""
 "Dwarves! It seems like they have been captured by those stinkin' trolls. "
 "Well, get out of that castle and return to your homes. You're free and the "
@@ -976,7 +997,7 @@ msgid ""
 msgstr ""
 
 #. [message]: type=Dwarvish Fighter
-#: Warmaster/scenarios/04x_Warmaster.cfg:281
+#: Warmaster/scenarios/04x_Warmaster.cfg:284
 msgid ""
 "Thank you, abover, but we don't have a home anymore. The trolls you defeated "
 "destroyed our caves. However, since we have no idea where to go we have "
@@ -984,7 +1005,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/04x_Warmaster.cfg:285
+#: Warmaster/scenarios/04x_Warmaster.cfg:288
 msgid ""
 "Oh, really? Well, welcome then and thank you. I'm glad to have such capable "
 "fighters like you around me."
@@ -1016,82 +1037,82 @@ msgid "Zaphron"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Marrar
-#: Warmaster/scenarios/05_Warmaster.cfg:142
+#: Warmaster/scenarios/05_Warmaster.cfg:143
 msgid "Marrar"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Marrar
 #. [side]: type=Orcish Warrior, id=Lerrar
-#: Warmaster/scenarios/05_Warmaster.cfg:146
-#: Warmaster/scenarios/05_Warmaster.cfg:218
+#: Warmaster/scenarios/05_Warmaster.cfg:147
+#: Warmaster/scenarios/05_Warmaster.cfg:219
 msgid "Besieging Orcs"
 msgstr ""
 
 #. [side]: type=Necromancer, id=Dolot
-#: Warmaster/scenarios/05_Warmaster.cfg:178
+#: Warmaster/scenarios/05_Warmaster.cfg:179
 msgid "Dolot"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Zortog
 #. [side]: type=Necromancer, id=Dolot
-#: Warmaster/scenarios/05_Warmaster.cfg:182
-#: Warmaster/scenarios/05_Warmaster.cfg:254
+#: Warmaster/scenarios/05_Warmaster.cfg:183
+#: Warmaster/scenarios/05_Warmaster.cfg:255
 msgid "Besieging Undead"
 msgstr ""
 
 #. [side]: type=Orcish Warrior, id=Lerrar
-#: Warmaster/scenarios/05_Warmaster.cfg:214
+#: Warmaster/scenarios/05_Warmaster.cfg:215
 msgid "Lerrar"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Zortog
-#: Warmaster/scenarios/05_Warmaster.cfg:250
+#: Warmaster/scenarios/05_Warmaster.cfg:251
 msgid "Zortog"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:297
+#: Warmaster/scenarios/05_Warmaster.cfg:298
 msgid "They just don't give up!"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/05_Warmaster.cfg:301
+#: Warmaster/scenarios/05_Warmaster.cfg:302
 msgid "But this time they seem to be well prepared..."
 msgstr ""
 
 #. [message]: id=Zaphron
-#: Warmaster/scenarios/05_Warmaster.cfg:305
+#: Warmaster/scenarios/05_Warmaster.cfg:306
 msgid ""
 "Let them come. We are prepared, too! ...And we also have your help, Troy, I "
 "guess."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:309
+#: Warmaster/scenarios/05_Warmaster.cfg:310
 msgid "Of course. Well. Time to smash some orcs and undeads!"
 msgstr ""
 
 #. [message]: id=Marrar
-#: Warmaster/scenarios/05_Warmaster.cfg:314
+#: Warmaster/scenarios/05_Warmaster.cfg:315
 msgid ""
 "Fools. You think you can beat us again? You're wrong. We will get the Zrai-"
 "Stone today. With our alliance with the undead we're undefeatable!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:318
+#: Warmaster/scenarios/05_Warmaster.cfg:319
 msgid "We'll see."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:327
+#: Warmaster/scenarios/05_Warmaster.cfg:328
 msgid ""
 "Well. We've won. So tell me now, Zaphron: What shall I do with the Zrai-"
 "Stone?"
 msgstr ""
 
 #. [message]: id=Zaphron
-#: Warmaster/scenarios/05_Warmaster.cfg:331
+#: Warmaster/scenarios/05_Warmaster.cfg:332
 msgid ""
 "This stone has enormous magical powers. It is said that if the chosen one "
 "owns this stone a new, golden century of piece and wealth will arise. "
@@ -1101,26 +1122,26 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:335
+#: Warmaster/scenarios/05_Warmaster.cfg:336
 msgid ""
 "M... m... me? B... but... C'mon, stay serious. Why should I be the chosen "
 "one?"
 msgstr ""
 
 #. [message]: id=Zaphron
-#: Warmaster/scenarios/05_Warmaster.cfg:339
+#: Warmaster/scenarios/05_Warmaster.cfg:340
 msgid ""
 "It is... Well... How you're fighting... How you're looking... How you're "
 "talking... There's something special on you."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:343
+#: Warmaster/scenarios/05_Warmaster.cfg:344
 msgid "..."
 msgstr ""
 
 #. [message]: id=Zaphron
-#: Warmaster/scenarios/05_Warmaster.cfg:347
+#: Warmaster/scenarios/05_Warmaster.cfg:348
 msgid ""
 "Just try it. If the wars against the orcs and the undead don't stop soon the "
 "humans, and maybe even the elves, are doomed. Please try it. I'm counting on "
@@ -1128,36 +1149,36 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:351
+#: Warmaster/scenarios/05_Warmaster.cfg:352
 msgid "...well. If that's your wish. Where's that mysterious temple?"
 msgstr ""
 
 #. [message]: id=Zaphron
-#: Warmaster/scenarios/05_Warmaster.cfg:355
+#: Warmaster/scenarios/05_Warmaster.cfg:356
 msgid ""
 "Unfortunitally I don't exactly know it... But the wise ones say it must be "
 "somewhere in the southwest... The way you came from."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:359
+#: Warmaster/scenarios/05_Warmaster.cfg:360
 msgid "But this means..."
 msgstr ""
 
 #. [message]: id=Zaphron
-#: Warmaster/scenarios/05_Warmaster.cfg:363
+#: Warmaster/scenarios/05_Warmaster.cfg:364
 msgid ""
 "Yeah... This means you'll have to travel back the way you came from. You'll "
 "have to pass your fallen home, Reiglon, again..."
 msgstr ""
 
 #. [message]: id=Zaphron
-#: Warmaster/scenarios/05_Warmaster.cfg:378
+#: Warmaster/scenarios/05_Warmaster.cfg:379
 msgid "Urgh. Varlos has fallen..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/05_Warmaster.cfg:390
+#: Warmaster/scenarios/05_Warmaster.cfg:391
 msgid "They're fleeing... We've survived."
 msgstr ""
 
@@ -1188,54 +1209,54 @@ msgstr ""
 #. [side]: type=Outlaw, id=Poddry
 #. [side]: type=Trapper, id=Gardok
 #: Warmaster/scenarios/06_Warmaster.cfg:121
-#: Warmaster/scenarios/08_Warmaster.cfg:194
-#: Warmaster/scenarios/10_Warmaster.cfg:193
+#: Warmaster/scenarios/08_Warmaster.cfg:197
+#: Warmaster/scenarios/10_Warmaster.cfg:195
 msgid "Outlaws"
 msgstr ""
 
 #. [side]: type=Necrophage, id=Zreg
-#: Warmaster/scenarios/06_Warmaster.cfg:149
+#: Warmaster/scenarios/06_Warmaster.cfg:151
 msgid "Zreg"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/06_Warmaster.cfg:201
+#: Warmaster/scenarios/06_Warmaster.cfg:205
 msgid ""
 "Back again... This place looks so... scary now. Nothing is like it was "
 "before Reiglon has fallen..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/06_Warmaster.cfg:205
+#: Warmaster/scenarios/06_Warmaster.cfg:209
 msgid ""
 "Crying around won't help us. We need to reach that temple Zaphron was "
 "talking about."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/06_Warmaster.cfg:209
+#: Warmaster/scenarios/06_Warmaster.cfg:213
 msgid ""
 "Yeah, I know... I think I know my way through the tunnle, but maybe there "
 "are new monsters now... We should be careful."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/06_Warmaster.cfg:213
+#: Warmaster/scenarios/06_Warmaster.cfg:217
 msgid "Well then... Let's go."
 msgstr ""
 
 #. [message]: id=Berx
-#: Warmaster/scenarios/06_Warmaster.cfg:230
+#: Warmaster/scenarios/06_Warmaster.cfg:234
 msgid "Argh... I'm defeated, but my thieves will avenge me!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/06_Warmaster.cfg:234
+#: Warmaster/scenarios/06_Warmaster.cfg:238
 msgid "I can't believe it... Those thieves..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/06_Warmaster.cfg:238
+#: Warmaster/scenarios/06_Warmaster.cfg:242
 msgid ""
 "Don't care about them... Thieves are thieves. The same thing could have "
 "happened to any other city... But however, let's go on. We have a mission to "
@@ -1243,37 +1264,37 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/06_Warmaster.cfg:242
+#: Warmaster/scenarios/06_Warmaster.cfg:246
 msgid "Yeah, I know... It just hurts to see the city, ruined like this."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/06_Warmaster.cfg:250
+#: Warmaster/scenarios/06_Warmaster.cfg:254
 msgid "Monsters! Prepare to fight, men!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/06_Warmaster.cfg:257
+#: Warmaster/scenarios/06_Warmaster.cfg:261
 msgid "Thieves! What are they doing here? Let's rid the area of them!"
 msgstr ""
 
 #. [message]: id=Berx
-#: Warmaster/scenarios/06_Warmaster.cfg:264
+#: Warmaster/scenarios/06_Warmaster.cfg:268
 msgid "Huh. I didn't know there were survivors."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/06_Warmaster.cfg:268
+#: Warmaster/scenarios/06_Warmaster.cfg:272
 msgid "Thief! What are you doing here! Leave the city immediately or die!"
 msgstr ""
 
 #. [message]: id=Berx
-#: Warmaster/scenarios/06_Warmaster.cfg:272
+#: Warmaster/scenarios/06_Warmaster.cfg:276
 msgid "...well. If you want it that way... Die!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Warmaster/scenarios/06_Warmaster.cfg:282
+#: Warmaster/scenarios/06_Warmaster.cfg:286
 msgid "Defeat Berx"
 msgstr ""
 
@@ -1295,71 +1316,71 @@ msgid "Nirgil-Nirril"
 msgstr ""
 
 #. [side]: type=Saurian Flanker, id=Rgrixx
-#: Warmaster/scenarios/07_Warmaster.cfg:122
+#: Warmaster/scenarios/07_Warmaster.cfg:123
 msgid "Rgrixx"
 msgstr ""
 
 #. [side]: type=Saurian Flanker, id=Rgrixx
-#: Warmaster/scenarios/07_Warmaster.cfg:125
+#: Warmaster/scenarios/07_Warmaster.cfg:126
 msgid "Saurians"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/07_Warmaster.cfg:162
+#: Warmaster/scenarios/07_Warmaster.cfg:164
 msgid ""
 "Hm... Southwest from here is the Draig-Swamp. I have never been there "
 "before..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/07_Warmaster.cfg:166
+#: Warmaster/scenarios/07_Warmaster.cfg:168
 msgid ""
 "Me too. However, we must hurry. Those orcs are becoming permanently more."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/07_Warmaster.cfg:170
+#: Warmaster/scenarios/07_Warmaster.cfg:172
 msgid "Yeah, behind there are the next ones..."
 msgstr ""
 
 #. [message]: id=Nirgil-Nirril
-#: Warmaster/scenarios/07_Warmaster.cfg:175
+#: Warmaster/scenarios/07_Warmaster.cfg:177
 msgid ""
 "C'mon lil' human. Give the Zrai-Stone to me. It would be a lot safer here..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/07_Warmaster.cfg:179
+#: Warmaster/scenarios/07_Warmaster.cfg:181
 msgid "Forget about that, orc! To arms!"
 msgstr ""
 
 #. [message]: id=Nirgil-Nirril
-#: Warmaster/scenarios/07_Warmaster.cfg:184
+#: Warmaster/scenarios/07_Warmaster.cfg:186
 msgid ""
 "Harharhar! Fortunitally we have an alliance with the saurians and the nagas. "
 "Kill them all and bring the stone to me!"
 msgstr ""
 
 #. [message]: id=Rgrixx
-#: Warmaster/scenarios/07_Warmaster.cfg:188
+#: Warmaster/scenarios/07_Warmaster.cfg:190
 msgid ""
 "Whatever you wissshhh, massster. That little potion here will help usss..."
 msgstr ""
 
 #. [object]
-#: Warmaster/scenarios/07_Warmaster.cfg:220
-#: Warmaster/scenarios/14_Warmaster.cfg:333
-#: Warmaster/scenarios/15_Warmaster.cfg:426
+#: Warmaster/scenarios/07_Warmaster.cfg:222
+#: Warmaster/scenarios/14_Warmaster.cfg:336
+#: Warmaster/scenarios/15_Warmaster.cfg:433
 msgid ""
 "Drinking this potion makes the drinker stronger. Your unit's attack-strength "
 "has been raised by 1"
 msgstr ""
 
 #. [object]
-#: Warmaster/scenarios/07_Warmaster.cfg:221
-#: Warmaster/scenarios/10_Warmaster.cfg:390
-#: Warmaster/scenarios/14_Warmaster.cfg:334
-#: Warmaster/scenarios/15_Warmaster.cfg:427
+#: Warmaster/scenarios/07_Warmaster.cfg:223
+#: Warmaster/scenarios/10_Warmaster.cfg:394
+#: Warmaster/scenarios/14_Warmaster.cfg:337
+#: Warmaster/scenarios/15_Warmaster.cfg:434
 msgid "Potion of strength"
 msgstr ""
 
@@ -1392,29 +1413,29 @@ msgid "Swamp Lurkers"
 msgstr ""
 
 #. [side]: type=Orcish Slurbow, id=Montog-Vargus
-#: Warmaster/scenarios/08_Warmaster.cfg:133
+#: Warmaster/scenarios/08_Warmaster.cfg:134
 msgid "Montog-Vargus"
 msgstr ""
 
 #. [side]: type=Banebow, id=Deth
-#: Warmaster/scenarios/08_Warmaster.cfg:162
+#: Warmaster/scenarios/08_Warmaster.cfg:164
 msgid "Deth"
 msgstr ""
 
 #. [side]: type=Outlaw, id=Poddry
-#: Warmaster/scenarios/08_Warmaster.cfg:191
+#: Warmaster/scenarios/08_Warmaster.cfg:194
 msgid "Poddry"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/08_Warmaster.cfg:233
+#: Warmaster/scenarios/08_Warmaster.cfg:238
 msgid ""
 "The Draig-Swamp... Looks like a pretty scary place... We shouldn't tally "
 "around here for too long."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/08_Warmaster.cfg:237
+#: Warmaster/scenarios/08_Warmaster.cfg:242
 msgid ""
 "I've heard rumors about this swamp before. They say that there are many dark "
 "figures at home here... Figures like orcs, thieves... This must be a "
@@ -1422,12 +1443,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/08_Warmaster.cfg:241
+#: Warmaster/scenarios/08_Warmaster.cfg:246
 msgid "However. Remember, we must head southwest. Onwards!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/08_Warmaster.cfg:262
+#: Warmaster/scenarios/08_Warmaster.cfg:267
 msgid "Let's get out of here..."
 msgstr ""
 
@@ -1451,7 +1472,7 @@ msgstr ""
 #. [side]: type=Drake Flare, id=Marh
 #. [side]: type=Inferno Drake, id=Gargal
 #: Warmaster/scenarios/09_Warmaster.cfg:148
-#: Warmaster/scenarios/10_Warmaster.cfg:225
+#: Warmaster/scenarios/10_Warmaster.cfg:229
 #: Warmaster/scenarios/11_Warmaster.cfg:126
 #: Warmaster/scenarios/12_Warmaster.cfg:130
 msgid "Drakes"
@@ -1463,19 +1484,19 @@ msgid "Hirr-Mirr"
 msgstr ""
 
 #. [side]: type=Necromancer, id=Farghul
-#: Warmaster/scenarios/09_Warmaster.cfg:282
+#: Warmaster/scenarios/09_Warmaster.cfg:283
 msgid "Farghul"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/09_Warmaster.cfg:368
+#: Warmaster/scenarios/09_Warmaster.cfg:370
 msgid ""
 "We've finally passed that cursed swamp... What might await us next? ...Do we "
 "have to climb this mountain?"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/09_Warmaster.cfg:372
+#: Warmaster/scenarios/09_Warmaster.cfg:374
 msgid ""
 "Nah, this mountain seems to be far too high to climb. It would take weeks to "
 "cross it, if not even months. We should try a faster way... Look, it seems "
@@ -1484,7 +1505,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/09_Warmaster.cfg:376
+#: Warmaster/scenarios/09_Warmaster.cfg:378
 msgid ""
 "Huh. Sounds a bit risky. What if that cave leads into the wrong direction? "
 "And what if the dangers down there are even greater than these orcs and "
@@ -1492,21 +1513,21 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/09_Warmaster.cfg:380
+#: Warmaster/scenarios/09_Warmaster.cfg:382
 msgid ""
 "I know that it might be a bad choice to go underground, but what if it is an "
 "even worse choice to stay overground?"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/09_Warmaster.cfg:384
+#: Warmaster/scenarios/09_Warmaster.cfg:386
 msgid ""
 "Point for you. But can't we just defeat their leaders? That should give us "
 "enough time to enter that cave without trouble."
 msgstr ""
 
 #. [message]: id=Hirr-Mirr
-#: Warmaster/scenarios/09_Warmaster.cfg:389
+#: Warmaster/scenarios/09_Warmaster.cfg:391
 msgid ""
 "Defeat us? Fool! My master's magic makes me invunerable! Now go on, grunts! "
 "I want to see that cursed stone in my hands! If we don't get it soon our "
@@ -1515,28 +1536,28 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Farghul
-#: Warmaster/scenarios/09_Warmaster.cfg:393
+#: Warmaster/scenarios/09_Warmaster.cfg:395
 msgid ""
 "Fortunitally we still have an alliance with the orcs... You cannot escape "
 "from me, foul humans! Raise, my undead fighters! Kill them all!"
 msgstr ""
 
 #. [message]: id=Marh
-#: Warmaster/scenarios/09_Warmaster.cfg:397
+#: Warmaster/scenarios/09_Warmaster.cfg:399
 msgid ""
 "Strangers... Lots of strangers... What are they doing here? This is our "
 "mountain. Seek yourselves your own one!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/09_Warmaster.cfg:401
+#: Warmaster/scenarios/09_Warmaster.cfg:403
 msgid ""
 "Er... In my humble opinion these orcs, undeads and drakes start to get too "
 "much. Let's make our way to the cave..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/09_Warmaster.cfg:419
+#: Warmaster/scenarios/09_Warmaster.cfg:421
 msgid "Let's go underground, quick!"
 msgstr ""
 
@@ -1570,29 +1591,29 @@ msgid "Trolls"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Werrand-Log
-#: Warmaster/scenarios/10_Warmaster.cfg:169
+#: Warmaster/scenarios/10_Warmaster.cfg:170
 msgid "Werrand-Log"
 msgstr ""
 
 #. [side]: type=Trapper, id=Gardok
-#: Warmaster/scenarios/10_Warmaster.cfg:190
+#: Warmaster/scenarios/10_Warmaster.cfg:192
 msgid "Gardok"
 msgstr ""
 
 #. [side]: type=Drake Flameheart, id=Moff
-#: Warmaster/scenarios/10_Warmaster.cfg:222
+#: Warmaster/scenarios/10_Warmaster.cfg:226
 msgid "Moff"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:267
+#: Warmaster/scenarios/10_Warmaster.cfg:271
 msgid ""
 "Oh man, pretty dark in here... That's not good... So where shall we go now? "
 "West or south?"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:271
+#: Warmaster/scenarios/10_Warmaster.cfg:275
 msgid ""
 "Dunno... I don't know this cave you know. But like in every cave I'm pretty "
 "sure there must be trolls, orcs and dwarves in here... We should be well "
@@ -1600,43 +1621,43 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:275
+#: Warmaster/scenarios/10_Warmaster.cfg:279
 msgid "Hm... Should we use elves then?"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:279
+#: Warmaster/scenarios/10_Warmaster.cfg:283
 msgid ""
 "Not really... Elves fight badly in caves. Humans, however, hate darkness... "
 "So I suggest to use a mix of them."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:283
+#: Warmaster/scenarios/10_Warmaster.cfg:287
 msgid "Well... We shouldn't tally around here for long then."
 msgstr ""
 
 #. [message]: id=Mergh
-#: Warmaster/scenarios/10_Warmaster.cfg:298
+#: Warmaster/scenarios/10_Warmaster.cfg:302
 msgid "Umpf! Mergh is defeat, but other troll will avenge Mergh!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/10_Warmaster.cfg:307
+#: Warmaster/scenarios/10_Warmaster.cfg:311
 msgid ""
 "You hear the distant sound of battle and a few cries of dwarves, probably "
 "coming from the west tunnels."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:312
+#: Warmaster/scenarios/10_Warmaster.cfg:316
 msgid ""
 "Huh? It seems like there are some dwarves fighting in the west... Maybe we "
 "should help them?"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:316
+#: Warmaster/scenarios/10_Warmaster.cfg:320
 msgid ""
 "Remember that we'll still stay underground for some time... So if you're "
 "going to go to the west, make it quick. However, we also don't know where "
@@ -1645,83 +1666,83 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/10_Warmaster.cfg:320
+#: Warmaster/scenarios/10_Warmaster.cfg:324
 msgid "So what do you think, which way shall we go?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Warmaster/scenarios/10_Warmaster.cfg:322
+#: Warmaster/scenarios/10_Warmaster.cfg:326
 msgid "Let's go straight south."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:326
+#: Warmaster/scenarios/10_Warmaster.cfg:330
 msgid ""
 "We don't have time to help those dwarves. We must continue to the south!"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Warmaster/scenarios/10_Warmaster.cfg:336
+#: Warmaster/scenarios/10_Warmaster.cfg:340
 msgid "Let's go west. (bonus level)"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:340
+#: Warmaster/scenarios/10_Warmaster.cfg:344
 msgid "It seems like those dwarves are having trouble. Let's go and help them!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:356
-#: Warmaster/scenarios/11_Warmaster.cfg:203
+#: Warmaster/scenarios/10_Warmaster.cfg:360
+#: Warmaster/scenarios/11_Warmaster.cfg:205
 msgid ""
 "Darn! We should never have entered these cursed caves! We already are far "
 "too long down here, and we're running out of food. Everything is lost..."
 msgstr ""
 
 #. [object]
-#: Warmaster/scenarios/10_Warmaster.cfg:389
+#: Warmaster/scenarios/10_Warmaster.cfg:393
 msgid ""
 "Drinking this potion makes the drinker stronger. Your unit's attack-strength "
 "has been raised by 1."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:465
+#: Warmaster/scenarios/10_Warmaster.cfg:469
 msgid "Trolls... As I said."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:469
+#: Warmaster/scenarios/10_Warmaster.cfg:473
 msgid "Very well, but I didn't see any dwarf in here yet..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:476
+#: Warmaster/scenarios/10_Warmaster.cfg:480
 msgid "Orcs... As I said."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:480
+#: Warmaster/scenarios/10_Warmaster.cfg:484
 msgid "Bah... Let's rid this cave of them!"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:484
+#: Warmaster/scenarios/10_Warmaster.cfg:488
 msgid "I don't know if we have the time to do so... But well."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:491
+#: Warmaster/scenarios/10_Warmaster.cfg:495
 msgid "Thieves... Could have thought of that."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10_Warmaster.cfg:495
+#: Warmaster/scenarios/10_Warmaster.cfg:499
 msgid "Let's kill these bastards!"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10_Warmaster.cfg:502
+#: Warmaster/scenarios/10_Warmaster.cfg:506
 msgid "Drakes... So they also live inside the mountain."
 msgstr ""
 
@@ -1741,32 +1762,32 @@ msgid "Death of Brom"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:169
+#: Warmaster/scenarios/10x_Warmaster.cfg:171
 msgid "Brom"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:173
+#: Warmaster/scenarios/10x_Warmaster.cfg:175
 msgid "Dwarves"
 msgstr ""
 
 #. [side]: type=Troll Warrior, id=Umpfa
-#: Warmaster/scenarios/10x_Warmaster.cfg:194
+#: Warmaster/scenarios/10x_Warmaster.cfg:197
 msgid "Umpfa"
 msgstr ""
 
 #. [side]: type=Troll Warrior, id=Umpfa
-#: Warmaster/scenarios/10x_Warmaster.cfg:197
+#: Warmaster/scenarios/10x_Warmaster.cfg:200
 msgid "Cave Critters"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10x_Warmaster.cfg:242
+#: Warmaster/scenarios/10x_Warmaster.cfg:246
 msgid "I've heard cries! What's going on here?"
 msgstr ""
 
 #. [message]: id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:246
+#: Warmaster/scenarios/10x_Warmaster.cfg:250
 msgid ""
 "Abovers! What are you doing here? ...No, wait, let's talk about that later. "
 "Could you help us with some trolls? We usually don't have trouble with them, "
@@ -1777,12 +1798,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10x_Warmaster.cfg:250
+#: Warmaster/scenarios/10x_Warmaster.cfg:254
 msgid "Alright... We will help you. But can we even win then?"
 msgstr ""
 
 #. [message]: id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:254
+#: Warmaster/scenarios/10x_Warmaster.cfg:258
 msgid ""
 "I hope so. Trolls are everything else than brave, and if they think they "
 "could be defeated by their enemies they usually just escape. We must show "
@@ -1791,29 +1812,29 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/10x_Warmaster.cfg:258
+#: Warmaster/scenarios/10x_Warmaster.cfg:262
 msgid "Okay. We will do our best to resist against them."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10x_Warmaster.cfg:262
+#: Warmaster/scenarios/10x_Warmaster.cfg:266
 msgid "Let's join the fun then!"
 msgstr ""
 
 #. [message]: id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:277
+#: Warmaster/scenarios/10x_Warmaster.cfg:281
 msgid "I've done my best to protect my folk. Argh..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10x_Warmaster.cfg:289
+#: Warmaster/scenarios/10x_Warmaster.cfg:293
 msgid ""
 "Phew... It seems like the trolls are afraid of our strong resistance. They "
 "are escaping."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/10x_Warmaster.cfg:308
+#: Warmaster/scenarios/10x_Warmaster.cfg:312
 msgid ""
 "Well... The trolls are gone. We've succeeded in protecting your folk, dwarf. "
 "I hope you can defeat them yourself again the next time. I probably won't be "
@@ -1821,7 +1842,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:312
+#: Warmaster/scenarios/10x_Warmaster.cfg:316
 msgid ""
 "Don't care about them. I think I'll move away from here. There surely are "
 "safer caves than this one. However, thank you very much for saving us. I "
@@ -1830,19 +1851,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/10x_Warmaster.cfg:317
+#: Warmaster/scenarios/10x_Warmaster.cfg:321
 msgid "So tell me, what would you like to have?"
 msgstr ""
 
 #. [message]: id=Troy
 #. [option]: speaker=narrator
-#: Warmaster/scenarios/10x_Warmaster.cfg:319
 #: Warmaster/scenarios/10x_Warmaster.cfg:323
+#: Warmaster/scenarios/10x_Warmaster.cfg:327
 msgid "Gold would be fine..."
 msgstr ""
 
 #. [message]: id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:328
+#: Warmaster/scenarios/10x_Warmaster.cfg:332
 msgid ""
 "Very well. Take this box, it contains 600 gold - almost all gold we have "
 "left."
@@ -1850,18 +1871,18 @@ msgstr ""
 
 #. [message]: id=Troy
 #. [option]: speaker=narrator
-#: Warmaster/scenarios/10x_Warmaster.cfg:337
 #: Warmaster/scenarios/10x_Warmaster.cfg:341
+#: Warmaster/scenarios/10x_Warmaster.cfg:345
 msgid "Could you give me some of your men?"
 msgstr ""
 
 #. [message]: id=Brom
-#: Warmaster/scenarios/10x_Warmaster.cfg:345
+#: Warmaster/scenarios/10x_Warmaster.cfg:349
 msgid "Very well. Take my best men with you."
 msgstr ""
 
 #. [message]: type=Dwarvish Pathfinder
-#: Warmaster/scenarios/10x_Warmaster.cfg:409
+#: Warmaster/scenarios/10x_Warmaster.cfg:413
 msgid "We will serve you as best as we can, sir."
 msgstr ""
 
@@ -1884,19 +1905,19 @@ msgid "Virgihm"
 msgstr ""
 
 #. [side]: type=Orcish Slurbow, id=Marhal-Tor
-#: Warmaster/scenarios/11_Warmaster.cfg:152
+#: Warmaster/scenarios/11_Warmaster.cfg:153
 msgid "Marhal-Tor"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/11_Warmaster.cfg:188
+#: Warmaster/scenarios/11_Warmaster.cfg:190
 msgid ""
 "Phew... The further we go the warmer it gets... I wonder why... This way "
 "doesn't lead towards the hell, does it?"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/11_Warmaster.cfg:192
+#: Warmaster/scenarios/11_Warmaster.cfg:194
 msgid ""
 "Come on, stay serious. If this way would lead towards the hell we already "
 "would have met a devil or something like that. ...Well, I don't know what "
@@ -1904,40 +1925,40 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/11_Warmaster.cfg:215
+#: Warmaster/scenarios/11_Warmaster.cfg:217
 msgid ""
 "They're all defeated... Now let's get out of here. I don't want to get "
 "toasted."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/11_Warmaster.cfg:219
+#: Warmaster/scenarios/11_Warmaster.cfg:221
 msgid "The exit seems to be somewhere to the south of here. It's pretty close."
 msgstr ""
 
 #. [object]
-#: Warmaster/scenarios/11_Warmaster.cfg:242
-#: Warmaster/scenarios/15_Warmaster.cfg:458
+#: Warmaster/scenarios/11_Warmaster.cfg:244
+#: Warmaster/scenarios/15_Warmaster.cfg:465
 msgid ""
 "Drinking this potion makes the drinker more resilient. Your unit's max. HP "
 "have been raised by 8"
 msgstr ""
 
 #. [object]
-#: Warmaster/scenarios/11_Warmaster.cfg:243
-#: Warmaster/scenarios/15_Warmaster.cfg:459
+#: Warmaster/scenarios/11_Warmaster.cfg:245
+#: Warmaster/scenarios/15_Warmaster.cfg:466
 msgid "Potion of resilience"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/11_Warmaster.cfg:271
+#: Warmaster/scenarios/11_Warmaster.cfg:273
 msgid ""
 "You've found an old book picked with mysterious runes. It seems like you "
 "found a spellbook! It grants you a strong magical ranged fire-attack."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/11_Warmaster.cfg:350
+#: Warmaster/scenarios/11_Warmaster.cfg:352
 msgid ""
 "What the... Now I know why it is so hot in here - this isn't the inner of "
 "just any random mountain - this is a vulcano! This also explains why the "
@@ -1945,19 +1966,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Virgihm
-#: Warmaster/scenarios/11_Warmaster.cfg:357
+#: Warmaster/scenarios/11_Warmaster.cfg:359
 msgid ""
 "Strangers... We told you not to enter our mountain... Get out of here "
 "immediately or feel our rage!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/11_Warmaster.cfg:361
+#: Warmaster/scenarios/11_Warmaster.cfg:363
 msgid "I want to get out of here, really. But I must pass here!"
 msgstr ""
 
 #. [message]: id=Virgihm
-#: Warmaster/scenarios/11_Warmaster.cfg:365
+#: Warmaster/scenarios/11_Warmaster.cfg:367
 msgid ""
 "I can't allow you go any further. This is the home of the drakes, and "
 "strangers are not welcome. Die!"
@@ -1986,49 +2007,49 @@ msgid "Gargal"
 msgstr ""
 
 #. [side]: type=Direwolf Rider, id=Bergdish
-#: Warmaster/scenarios/12_Warmaster.cfg:156
+#: Warmaster/scenarios/12_Warmaster.cfg:157
 msgid "Bergdish"
 msgstr ""
 
 #. [side]: type=Direwolf Rider, id=Bergdish
-#: Warmaster/scenarios/12_Warmaster.cfg:159
+#: Warmaster/scenarios/12_Warmaster.cfg:160
 msgid "Wolfs"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/12_Warmaster.cfg:195
+#: Warmaster/scenarios/12_Warmaster.cfg:197
 msgid ""
 "Argh. First a volcano, now a desert. What comes next? A trip to the sun? I "
 "can't hold out this heat any longer!"
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/12_Warmaster.cfg:199
+#: Warmaster/scenarios/12_Warmaster.cfg:201
 msgid ""
 "What do you expect from a desert? But hey, look! Do you see that building "
 "far behind there? It must be gigantic if we can see it from here."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/12_Warmaster.cfg:203
+#: Warmaster/scenarios/12_Warmaster.cfg:205
 msgid ""
 "Hm... Do you mean that dark shape? Yeah, it really looks big. Do you think..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/12_Warmaster.cfg:207
+#: Warmaster/scenarios/12_Warmaster.cfg:209
 msgid ""
 "Yeah, I think so. This must be the temple... It can't be very far away "
 "anymore! Let's hurry!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/12_Warmaster.cfg:225
+#: Warmaster/scenarios/12_Warmaster.cfg:227
 msgid "Let's get out of this heat!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/12_Warmaster.cfg:286
+#: Warmaster/scenarios/12_Warmaster.cfg:288
 msgid "Trolls in a desert? Where are they coming from?"
 msgstr ""
 
@@ -2057,102 +2078,102 @@ msgstr ""
 #. [side]: type=Orcish Sovereign, id=Mergal-Nergal
 #. [side]: type=Orcish Warlord, id=Margas
 #: Warmaster/scenarios/13_Warmaster.cfg:112
-#: Warmaster/scenarios/13_Warmaster.cfg:149
+#: Warmaster/scenarios/13_Warmaster.cfg:150
 msgid "Frosty Orcs"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Margas
-#: Warmaster/scenarios/13_Warmaster.cfg:146
+#: Warmaster/scenarios/13_Warmaster.cfg:147
 msgid "Margas"
 msgstr ""
 
 #. [side]: type=Merman Hoplite, id=Searmen
-#: Warmaster/scenarios/13_Warmaster.cfg:183
+#: Warmaster/scenarios/13_Warmaster.cfg:185
 msgid "Searmen"
 msgstr ""
 
 #. [side]: type=Merman Hoplite, id=Searmen
-#: Warmaster/scenarios/13_Warmaster.cfg:186
+#: Warmaster/scenarios/13_Warmaster.cfg:188
 msgid "Seafolk"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/13_Warmaster.cfg:258
+#: Warmaster/scenarios/13_Warmaster.cfg:262
 msgid ""
 "We finally are out of that heat... And the temple is no more far away. Only "
 "a few miles anymore."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/13_Warmaster.cfg:262
+#: Warmaster/scenarios/13_Warmaster.cfg:266
 msgid ""
 "Do you see those snowy plains behind there? The nearer we get to the temple "
 "the colder it will get. Beware."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/13_Warmaster.cfg:266
+#: Warmaster/scenarios/13_Warmaster.cfg:270
 msgid ""
 "Hm... We should avoid the snow as far as possible. But what's that? It looks "
 "like the orcs have come even here..."
 msgstr ""
 
 #. [message]: id=Mergal-Nergal
-#: Warmaster/scenarios/13_Warmaster.cfg:270
+#: Warmaster/scenarios/13_Warmaster.cfg:274
 msgid ""
 "Stop, foul human! You already should have died a long time ago... Give me "
 "the stone!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/13_Warmaster.cfg:274
+#: Warmaster/scenarios/13_Warmaster.cfg:278
 msgid "Come and fight against me if you want to get it!"
 msgstr ""
 
 #. [message]: id=Mergal-Nergal
-#: Warmaster/scenarios/13_Warmaster.cfg:278
+#: Warmaster/scenarios/13_Warmaster.cfg:282
 msgid ""
 "Ha, why should I move away from here even only one step? I have douzens of "
 "well trained soldiers. They will kill you anyway!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/13_Warmaster.cfg:282
+#: Warmaster/scenarios/13_Warmaster.cfg:286
 msgid "I doubt that. You will never get the Zrai-Stone!"
 msgstr ""
 
 #. [message]: id=Tonk
-#: Warmaster/scenarios/13_Warmaster.cfg:367
+#: Warmaster/scenarios/13_Warmaster.cfg:371
 msgid ""
 "Ha! Did you really think you could escape from us? Fool! I will make you "
 "joining my army - as another stupid skeleton!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/13_Warmaster.cfg:371
+#: Warmaster/scenarios/13_Warmaster.cfg:375
 msgid "Nice. This is going to be a though battle..."
 msgstr ""
 
 #. [message]: id=Mergal-Nergal
-#: Warmaster/scenarios/13_Warmaster.cfg:383
+#: Warmaster/scenarios/13_Warmaster.cfg:387
 msgid ""
 "Fool! Do you really think you could defeat me? I'm not done with you yet!!"
 msgstr ""
 
 #. [message]: id=Mergal-Nergal
-#: Warmaster/scenarios/13_Warmaster.cfg:408
+#: Warmaster/scenarios/13_Warmaster.cfg:412
 msgid ""
 "Argh... How is this possible? Defeated by a foul human and his weakish "
 "army..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/13_Warmaster.cfg:412
+#: Warmaster/scenarios/13_Warmaster.cfg:416
 msgid "I told you you wouldn't get the stone, orc."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/13_Warmaster.cfg:416
+#: Warmaster/scenarios/13_Warmaster.cfg:420
 msgid ""
 "Come on, we have no time to waste! Let's take the Zrai-Stone to the temple!"
 msgstr ""
@@ -2187,12 +2208,12 @@ msgid "Mortaler"
 msgstr ""
 
 #. [side]: type=Assassin, id=Bonkos
-#: Warmaster/scenarios/14_Warmaster.cfg:212
+#: Warmaster/scenarios/14_Warmaster.cfg:214
 msgid "Bonkos"
 msgstr ""
 
 #. [side]: type=Assassin, id=Bonkos
-#: Warmaster/scenarios/14_Warmaster.cfg:216
+#: Warmaster/scenarios/14_Warmaster.cfg:218
 msgid "Bandits"
 msgstr ""
 
@@ -2205,63 +2226,63 @@ msgstr ""
 #. [side]: type=Yeti, id=Gitank
 #. [side]: type=Yeti, id=Karkas
 #. [side]: type=Yeti, id=Yargel
-#: Warmaster/scenarios/14_Warmaster.cfg:252
+#: Warmaster/scenarios/14_Warmaster.cfg:255
 #: Warmaster/scenarios/15_Warmaster.cfg:132
-#: Warmaster/scenarios/15_Warmaster.cfg:169
-#: Warmaster/scenarios/15_Warmaster.cfg:196
-#: Warmaster/scenarios/15_Warmaster.cfg:233
-#: Warmaster/scenarios/15_Warmaster.cfg:260
-#: Warmaster/scenarios/15_Warmaster.cfg:297
-#: Warmaster/scenarios/15_Warmaster.cfg:324
-#: Warmaster/scenarios/16_Warmaster.cfg:95
+#: Warmaster/scenarios/15_Warmaster.cfg:170
+#: Warmaster/scenarios/15_Warmaster.cfg:198
+#: Warmaster/scenarios/15_Warmaster.cfg:236
+#: Warmaster/scenarios/15_Warmaster.cfg:264
+#: Warmaster/scenarios/15_Warmaster.cfg:302
+#: Warmaster/scenarios/15_Warmaster.cfg:330
+#: Warmaster/scenarios/16_Warmaster.cfg:97
 msgid "Guardians"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/14_Warmaster.cfg:276
+#: Warmaster/scenarios/14_Warmaster.cfg:279
 msgid ""
 "The temple... Our mission is almost complete. We must not fail. The future "
 "of the world might depend on the completition of our mission."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/14_Warmaster.cfg:280
+#: Warmaster/scenarios/14_Warmaster.cfg:283
 msgid "Yeah, but it seems like we get trouble again first..."
 msgstr ""
 
 #. [message]: id=Mortaler
-#: Warmaster/scenarios/14_Warmaster.cfg:284
+#: Warmaster/scenarios/14_Warmaster.cfg:287
 msgid ""
 "So they have even come this far... Enough. If we can't get the stone we'll "
 "have to try to destroy the temple... I cannot allow you to use the stone."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/14_Warmaster.cfg:288
+#: Warmaster/scenarios/14_Warmaster.cfg:291
 msgid ""
 "No!! That must not happen! We must enter the temple before that foul orc "
 "does, or we are doomed!"
 msgstr ""
 
 #. [message]: id=Mortaler
-#: Warmaster/scenarios/14_Warmaster.cfg:305
+#: Warmaster/scenarios/14_Warmaster.cfg:308
 msgid "This is impossible... Absolutely impossible..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/14_Warmaster.cfg:362
+#: Warmaster/scenarios/14_Warmaster.cfg:365
 msgid "Phew... We reached the entrance first. Onwards!"
 msgstr ""
 
 #. [message]: id=Mortaler
-#: Warmaster/scenarios/14_Warmaster.cfg:378
+#: Warmaster/scenarios/14_Warmaster.cfg:381
 msgid ""
 "Hahaha! Onwards, grunts! Let's smash this ugly temple to pieces! That foul "
 "human must not use the Zrai-Stone!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/14_Warmaster.cfg:382
+#: Warmaster/scenarios/14_Warmaster.cfg:385
 msgid ""
 "NO!!! If they destroy the temple the Zrai-Stone is absolutely useless. "
 "Everything is lost..."
@@ -2287,43 +2308,43 @@ msgid "Har-Nargh"
 msgstr ""
 
 #. [side]: type=Yeti, id=Karkas
-#: Warmaster/scenarios/15_Warmaster.cfg:165
+#: Warmaster/scenarios/15_Warmaster.cfg:166
 msgid "Karkas"
 msgstr ""
 
 #. [side]: type=Ancient Lich, id=Har-Nergh
-#: Warmaster/scenarios/15_Warmaster.cfg:193
+#: Warmaster/scenarios/15_Warmaster.cfg:195
 msgid "Har-Nergh"
 msgstr ""
 
 #. [side]: type=Yeti, id=Gitank
-#: Warmaster/scenarios/15_Warmaster.cfg:229
+#: Warmaster/scenarios/15_Warmaster.cfg:232
 msgid "Gitank"
 msgstr ""
 
 #. [side]: type=Ancient Lich, id=Har-Nirgh
-#: Warmaster/scenarios/15_Warmaster.cfg:257
+#: Warmaster/scenarios/15_Warmaster.cfg:261
 msgid "Har-Nirgh"
 msgstr ""
 
 #. [side]: type=Yeti, id=Yargel
-#: Warmaster/scenarios/15_Warmaster.cfg:293
+#: Warmaster/scenarios/15_Warmaster.cfg:298
 msgid "Yargel"
 msgstr ""
 
 #. [side]: type=Ancient Lich, id=Har-Norgh
-#: Warmaster/scenarios/15_Warmaster.cfg:321
+#: Warmaster/scenarios/15_Warmaster.cfg:327
 msgid "Har-Norgh"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/15_Warmaster.cfg:368
+#: Warmaster/scenarios/15_Warmaster.cfg:375
 msgid ""
 "A labyrinth! I guess it will be harder to get to the altar than I thought..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/15_Warmaster.cfg:372
+#: Warmaster/scenarios/15_Warmaster.cfg:379
 msgid ""
 "We will have to get through it. But I suggest to take some healers with you. "
 "I strongly doubt that we will find any further villages in here. And you "
@@ -2332,14 +2353,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/15_Warmaster.cfg:376
+#: Warmaster/scenarios/15_Warmaster.cfg:383
 msgid ""
 "Alright. We must not fail, and I will do everything to prevent us from "
 "failing!"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/15_Warmaster.cfg:387
+#: Warmaster/scenarios/15_Warmaster.cfg:394
 msgid ""
 "No... I can't believe it. This labyrinth is strange. It almost seems like "
 "there's no exit out of it anymore. I'm afraid entering this temple was the "
@@ -2347,12 +2368,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/15_Warmaster.cfg:482
+#: Warmaster/scenarios/15_Warmaster.cfg:489
 msgid "This way seems to lead to the core of the temple. Quick, onwards!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Warmaster/scenarios/15_Warmaster.cfg:561
+#: Warmaster/scenarios/15_Warmaster.cfg:568
 msgid "You suddenly feel dizzy and disorientated..."
 msgstr ""
 
@@ -2377,12 +2398,12 @@ msgid "Defeat Norfoneal-Margastar"
 msgstr ""
 
 #. [side]: type=Lich Master, id=Norfoneal-Margastar
-#: Warmaster/scenarios/16_Warmaster.cfg:91
+#: Warmaster/scenarios/16_Warmaster.cfg:93
 msgid "Norfoneal-Margastar"
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/16_Warmaster.cfg:141
+#: Warmaster/scenarios/16_Warmaster.cfg:145
 msgid ""
 "Phew... We've finally reached the core of this cursed temple... So where's "
 "the altar? I want to leave this infernal place again as fast as I can. ..."
@@ -2390,14 +2411,14 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/16_Warmaster.cfg:145
+#: Warmaster/scenarios/16_Warmaster.cfg:149
 msgid ""
 "Be careful. This seems to be another ancient lich. But it somehow looks even "
 "more ancient than the ones we met before..."
 msgstr ""
 
 #. [message]: id=Norfoneal-Margastar
-#: Warmaster/scenarios/16_Warmaster.cfg:149
+#: Warmaster/scenarios/16_Warmaster.cfg:153
 msgid ""
 "I am not one of these pityful ancient lichs. They are so incredibly weak. As "
 "a work of mine they should be stronger. You have heard right - I was me who "
@@ -2406,12 +2427,12 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/16_Warmaster.cfg:153
+#: Warmaster/scenarios/16_Warmaster.cfg:157
 msgid "Let me guess: You won't let us pass to put the Zrai-Stone on the altar."
 msgstr ""
 
 #. [message]: id=Norfoneal-Margastar
-#: Warmaster/scenarios/16_Warmaster.cfg:157
+#: Warmaster/scenarios/16_Warmaster.cfg:161
 msgid ""
 "Of course not. This is my temple, and the Zrai-Stone also is a work of mine. "
 "It should make me even mightier every day, but one day a foolish little "
@@ -2422,7 +2443,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/16_Warmaster.cfg:161
+#: Warmaster/scenarios/16_Warmaster.cfg:165
 msgid ""
 "Forget about that, monster! I've come this far. My mission is to put the "
 "stone on the altar, and I won't fail only because of a loudmouth like you! "
@@ -2430,26 +2451,26 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/16_Warmaster.cfg:174
+#: Warmaster/scenarios/16_Warmaster.cfg:178
 msgid ""
 "Argh... This cannot be. Not now. Have I really come this far just to fail? "
 "This is not meant to happen..."
 msgstr ""
 
 #. [message]: id=Ervin
-#: Warmaster/scenarios/16_Warmaster.cfg:190 Warmaster/utils/macros.cfg:186
+#: Warmaster/scenarios/16_Warmaster.cfg:194 Warmaster/utils/macros.cfg:186
 msgid "Urgh... It's over. I'm doomed..."
 msgstr ""
 
 #. [message]: id=Norfoneal-Margastar
-#: Warmaster/scenarios/16_Warmaster.cfg:206
+#: Warmaster/scenarios/16_Warmaster.cfg:210
 msgid ""
 "This cannot be. I'm immortal. How can I be defeated by such pityful little "
 "fools... Ergh..."
 msgstr ""
 
 #. [message]: id=Troy
-#: Warmaster/scenarios/16_Warmaster.cfg:225
+#: Warmaster/scenarios/16_Warmaster.cfg:229
 msgid "We must defeat this crazy lich-master-guy first!"
 msgstr ""
 
