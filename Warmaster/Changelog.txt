@@ -1,5 +1,10 @@
 *** This file contains (almost) all changes done at this campaign. ***
 
+ ** trewe 7-01-2013
+	! fixed a bug in the 10th scenario
+	* hopefully the ai in the 1st is now a bit faster
+	* changed slightly translation
+
  ** trewe 9-12-2012
 	+ added german translation
 
